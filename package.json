@@ -1,0 +1,14 @@
+{
+    "name": "cluster-settings",
+    "version": "0.1",
+    "main": ".",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "pg": "^8.7.1"
+    },
+    "engines": {
+        "node": "17.7.0"
+    }
+}
